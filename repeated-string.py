@@ -33,6 +33,6 @@ if __name__ == '__main__':
 
     result = repeatedString(s, n)
 
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
+    # fptr.write(str(result) + '\n')
+    #
+    # fptr.close()
